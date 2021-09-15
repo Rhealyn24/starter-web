@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rhealyn Obel	rhealyn@git.training	rhearhea
 
 # THANKS
 
